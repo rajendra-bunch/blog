@@ -15,7 +15,7 @@ module.exports = {
       summary: `지구 어딘가에서 경제적 자유를 꿈꾸는 월급쟁이 개발자`,
     },
     description: `여러가지 생각나는 것들에 대하여 작성합니다.`,
-    siteUrl: `https://blog.rajendra-buch.dev/`,
+    siteUrl: `https://blog.rajendra.dev/`,
   },
   plugins: [
     `gatsby-plugin-image`,
