@@ -1,5 +1,5 @@
 ---
-title: "02. 파이썬 변수와 데이터타입"
+title: "[파이썬 기초] 02. 파이썬 변수와 데이터타입"
 date: "2023-01-29T23:10:41.182Z"
 description: "Variables and Data Types in Python"
 ---

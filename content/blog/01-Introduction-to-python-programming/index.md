@@ -1,6 +1,6 @@
 ---
-title: "01. 파이썬을 소개합니다."
-date: "2023-01-29T22:42:36.284Z"
+title: "[파이썬 기초] 01. 파이썬을 소개합니다."
+date: "2023-01-29T22:42:36.285Z"
 description: "Introduction to Python Programming"
 ---
 
